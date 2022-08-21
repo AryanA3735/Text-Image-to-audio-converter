@@ -1,2 +1,2 @@
-# Text-to-Audio/Speech
-In this file I had converted text file to speech or audio file.
+# Text Image to audio converter
+First we will convert image to text file and then to audio file using python libraries.
